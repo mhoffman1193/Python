@@ -25,8 +25,7 @@ class Person(object):
         self.number2 = number2
         self.total = total
 
-    def __str__(self):
-        return '{}'
+
 
 
 
